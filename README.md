@@ -1,3 +1,3 @@
 # I310D_Group_Project
 Heart Disease Prediction 
-The objective of our project is to predict whether a person is likely to have heart disease using machine learning models. This repository contains the code to load, preprocess, visualize, and analyze the data, train and test the models, and evaluate bias and fairness. 
+Our project aims to predict whether a person is likely to have heart disease using machine learning models. This repository contains the code to load, preprocess, visualize, and analyze the data, train and test the models, and evaluate bias and fairness. To view the code, open "I310_Group_Project.ipynb", and the code output should be displayed. To re-run the code, download "I310_Group_Project.ipynb" and open the file in Google Colab. When running the code in Colab, ensure that "heart1_train.csv" and "heart1_test.csv" are uploaded into the session's file storage. 
